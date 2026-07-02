@@ -8,7 +8,7 @@ Exports the data to a CSV file
 Includes basic error handling for failed requested
 
 Technologies Used:
-Python 3
-Requests
-BeautifulSoup4
-Pandas
+Python 3,
+Requests,
+BeautifulSoup4,
+Pandas.
